@@ -26,7 +26,7 @@ setInterval(function(){
       x.style.display = "block";
     }
 
-}, 3000);
+}, 4000);
 
 
 function hideShow() {
@@ -43,4 +43,4 @@ function hideShow() {
   }
 
 
-setInterval(function(){ hideShow(); }, 20000);
+setInterval(function(){ hideShow(); }, 50000);

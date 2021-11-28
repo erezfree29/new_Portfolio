@@ -51,7 +51,7 @@
     }
 
     .erez_avatar {
-        animation-duration: 3s;
+        animation-duration: 1s;
         animation-name: slidein;
         animation-delay: 3s;
       }
@@ -173,7 +173,7 @@ footer {
 
 #projects_content {
     display: none;
-    animation-duration: 3s;
+    animation-duration: 1s;
     animation-name: slidein;
 }
 
@@ -188,7 +188,7 @@ footer {
 }
 
 #skills {
-    animation-duration: 3s;
+    animation-duration: 1s;
     animation-name: slidein;
 }
 
