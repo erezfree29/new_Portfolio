@@ -43,4 +43,4 @@ function hideShow() {
   }
 
 
-setInterval(function(){ hideShow(); }, 10000);
+setInterval(function(){ hideShow(); }, 20000);

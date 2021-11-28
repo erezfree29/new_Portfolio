@@ -2,7 +2,7 @@
    width: 70%;
    margin-left: 15%;
    height: 90vh;
-   background-image: url("./code-g062d38d1c_1920.jpg");
+   background-image: url("https://res.cloudinary.com/erezfriemagor/image/upload/v1638130657/pexels-mudassir-ali-2680270.jpg");
    display: flex;
     }
     
@@ -73,9 +73,12 @@
       }
 
     .icons {
-        color: white;
         display: flex;
         justify-content: center;
+    }
+
+    .icons a {
+        color: white;
     }
 
     .bottom_bar {
