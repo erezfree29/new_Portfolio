@@ -168,8 +168,10 @@ footer {
     margin-left: 15%;
 }
 
-.projects_content {
+#projects_content {
     display: none;
+    animation-duration: 3s;
+    animation-name: slidein;
 }
 
 .projects_heading {
@@ -180,6 +182,11 @@ footer {
 
 .item_height {
     height: 50vh !important;
+}
+
+#skills {
+    animation-duration: 3s;
+    animation-name: slidein;
 }
 
     @media screen and (max-width: 768px) {

@@ -27,3 +27,20 @@ setInterval(function(){
     }
 
 }, 3000);
+
+
+function hideShow() {
+    let x = document.getElementById("skills");
+    let y = document.getElementById("projects_content");
+    if (x.style.display === "none") {
+      x.style.display = "block";
+      y.style.display = "none";
+    } else {
+      x.style.display = "none";
+      y.style.display = "block";
+
+    }
+  }
+
+
+setInterval(function(){ hideShow(); }, 10000);
