@@ -64,7 +64,6 @@ function hideShow() {
   function showProjects() {
     document.getElementById("skills").style.display = 'none';
     document.getElementById("projects_content").style.display = 'block';
-    document.querySelector('.side_bar').style.display = 'none';
   }
 
 
