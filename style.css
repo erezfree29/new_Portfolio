@@ -335,6 +335,15 @@ footer {
             display: none;
         }
 
+        .description {
+            font-size: 10px;
+        }
+
+        .carousel-item {
+            margin-left: 100px !important;
+            width: 300px !important;
+        }
+
     }
 
 

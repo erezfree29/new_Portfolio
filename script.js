@@ -112,7 +112,7 @@ if (y.matches) { // If media query matches
     document.getElementById('show_skills').addEventListener("click", showSkillsMobile);
     document.getElementById('show_projects').addEventListener("click", showProjectsMobile);
     document.querySelector('.show_side').addEventListener("click", showSideBar);
-    setInterval(function(){ changeDivsMobile(); }, 10000);
+    setInterval(function(){ changeDivsMobile(); }, 30000);
 }
 
 
